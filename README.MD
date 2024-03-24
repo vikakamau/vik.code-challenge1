@@ -14,7 +14,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://
+Git clone https://github.com/vikakamau/vik.code-challenge1
 ```
 
 # Live Link

@@ -1,4 +1,6 @@
-const grades = 75
+const prompt = require("prompt-sync")({ sigint: true});
+
+const grades = prompt("Enter Grade: ")
 if(grades>79 && grades<=100){
     console.log("A");
 }else if(grades>=60 && grades<=79){

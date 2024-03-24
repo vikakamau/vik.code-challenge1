@@ -1,9 +1,9 @@
-const basicsalary = 40000;
-const benefits = 5000
+const basicsalary = 50000;
+const benefits = 3000
 function calculateNetSalary(basicsalary, benefits){
-    const NHIFrate = 0.1;
-    const Taxrate = 0.2;
-    const NSSFrate = 0.05;
+    const NHIFrate = 0.03;
+    const Taxrate = 0.1;
+    const NSSFrate = 0.06;
 
     const grossSalary= basicsalary+benefits
 
